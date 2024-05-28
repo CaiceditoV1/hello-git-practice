@@ -1,0 +1,1 @@
+console.log("como si fuera una empresa estoy practicando");
